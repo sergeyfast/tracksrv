@@ -1,6 +1,8 @@
 # tracksrv
 Simple web service that counts views.
 
+`docker pull sergeyfast/tracksrv`
+
 ## Flags
 ```
   -addr string
